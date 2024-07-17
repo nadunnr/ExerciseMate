@@ -1,6 +1,6 @@
 # ExerciseMate
 
-ExerciseMate is a wearable device designed to track exercises, paired with a stationary display. This repository contains all project files, including documentation, PCB designs, SolidWorks files, and microcontroller code. ExerciseMate is a comprehensive system designed to assist users in tracking their exercise routines with a wearable device and a stationary display unit.
+ExerciseMate is a hand wearable device designed to track exercise count, paired with a stationary display unit. This repository contains all project files, including documentation, PCB designs, SolidWorks files, and microcontroller code. ExerciseMate is a comprehensive system that assists users in monitoring their exercise routines efficiently.
  
 ## Folder Structure
 
